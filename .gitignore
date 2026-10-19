@@ -1,0 +1,12 @@
+/.tools/
+/dist/
+/vyx
+/vyx.exe
+/coverage.out
+/cpu.prof
+/mem.prof
+*.test
+.env
+.env.*
+!.env.example
+!.env.sample
